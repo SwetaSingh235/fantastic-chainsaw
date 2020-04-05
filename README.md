@@ -74,7 +74,13 @@
                  CSS
                  PHP
                  JAVASCRIPT
-      
+  
+  DATABASE NAME-janm
+  TABLE NAME-patient(contains information of patients )
+            -doctor(contains information of doctors)
+            -appoint(contains data of appointment)
+            -chat(contains all the messages)
+            -adminlogin(contains id password of admin)
       
       
     
